@@ -1,6 +1,13 @@
 # Banking System
 An OOP based project to store and retrive information of a user's transcations using file system.
 
+## Installation
+1. Install any compiler that supports python code execution
+2. Install python3.9 from official python website
+3. Create a clone of the project on local machine
+4. Go to the BankingMain.py file.
+5. Execute the corresponding command on your compiler to run the code.
+
 ## Usage 
 ID -> admin.  
 Pincode -> 1234.  
